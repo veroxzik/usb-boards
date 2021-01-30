@@ -8,7 +8,7 @@ This board uses a straight JST-XH and a straight USB-C connector.
 | Component | Qty | LCSC Part Number |
 |:---|:---:|:---:|
 | USB-C Connector | 1 | C168704 | 
-| JST-XH 4 pin (Official)  **OR** (Knockoff) | 1 | C594232 **OR** C37815 |
+| JST-XH 4 pin | 1 | C594232 (Official) **OR** C37815 (Knockoff) |
 | 5.1kOhm 0805 | 1 | C27834 |
 
 ## Dimensions
@@ -29,4 +29,5 @@ This pinout is the mirror of what is on the Yuancon, as the stock cable flips th
 
 ## USB-C
 
-This USB connector only supports USB 2.0. If using a USB-C to USB-C cable, the 5.1kOhm restors **must** be used. They can be omitted for USB-A to USB-C cables.
+This USB connector only supports USB 2.0. If using a USB-C to USB-C cable, the 5.1kOhm restors **must** be used.  
+They can be omitted for USB-A to USB-C cables.
