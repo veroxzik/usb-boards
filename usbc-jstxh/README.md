@@ -8,7 +8,7 @@ This board uses a straight JST-XH and a straight USB-C connector.
 | Component | Qty | LCSC Part Number |
 |:---|:---:|:---:|
 | USB-C Connector | 1 | C168704 | 
-| JST-XH 4 pin | 1 | C594232 (Official) **OR** C37815 (Knockoff) |
+| JST-XH 4 pin | 1 | C161871 (Official) **OR** C37815 (Knockoff) |
 | 5.1kOhm 0805 | 1 | C27834 |
 
 ## Dimensions
