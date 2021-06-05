@@ -1,7 +1,7 @@
-# USB-C to JST-XH
+# USB-C to JST-XH Mini
 
 This is a simple board to convert JST-XH pinout used by Yuancon controllers to a USB-C socket.  
-It is modeled off the size, shape, and hole placement of old Yuancon USB-B controllers.  
+It is modeled off the size, shape, and hole placement of newer Yuancon USB-C controllers.  
 This board uses a straight JST-XH and a straight USB-C connector.
 
 ## Bill of Materials
@@ -14,7 +14,7 @@ This board uses a straight JST-XH and a straight USB-C connector.
 
 ## Dimensions
 
-The board size is 70mm x 20mm. There are two M3 (4-40) holes 60mm apart, centered about the board and about the USB connector.
+The board size is 45mm x 15mm. There are two M3 (4-40) holes 40mm apart, centered about the USB connector.
 
 ## Pinout
 
